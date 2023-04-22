@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 0e5656e6050c825449373224739d2fd9
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 7392420383836165697
+    second: MonsterArmature|MonsterArmature|Bite_Front|Bite_Front
+  - first:
+      74: 8698133689313613197
+    second: MonsterArmature|MonsterArmature|Bite_InPlace|Bite_InPlace
+  - first:
+      74: 2755905271608196120
+    second: MonsterArmature|MonsterArmature|Dance|Dance
+  - first:
+      74: 8615514286251390313
+    second: MonsterArmature|MonsterArmature|Death|Death
+  - first:
+      74: 6225261484348420732
+    second: MonsterArmature|MonsterArmature|HitRecieve|HitRecieve
+  - first:
+      74: -1679315721707102059
+    second: MonsterArmature|MonsterArmature|Idle|Idle
+  - first:
+      74: 3973126808273166419
+    second: MonsterArmature|MonsterArmature|Jump|Jump
+  - first:
+      74: 4989832993987564068
+    second: MonsterArmature|MonsterArmature|MonsterArmature|Bite_Front|MonsterArmature|Bite
+  - first:
+      74: 5317349574035042938
+    second: MonsterArmature|MonsterArmature|MonsterArmature|Bite_InPlace|MonsterArmature|Bi
+  - first:
+      74: -6896777708521174608
+    second: MonsterArmature|MonsterArmature|MonsterArmature|Dance|MonsterArmature|Dance
+  - first:
+      74: 5481333878026839331
+    second: MonsterArmature|MonsterArmature|MonsterArmature|Death|MonsterArmature|Death
+  - first:
+      74: 1827630507647618632
+    second: MonsterArmature|MonsterArmature|MonsterArmature|HitRecieve|MonsterArmature|HitR
+  - first:
+      74: -4269478727060326530
+    second: MonsterArmature|MonsterArmature|MonsterArmature|Idle|MonsterArmature|Idle
+  - first:
+      74: 6645379527926500624
+    second: MonsterArmature|MonsterArmature|MonsterArmature|Jump|MonsterArmature|Jump
+  - first:
+      74: 2179664216377417784
+    second: MonsterArmature|MonsterArmature|MonsterArmature|No|MonsterArmature|No
+  - first:
+      74: 6224157602070355128
+    second: MonsterArmature|MonsterArmature|MonsterArmature|Walk|MonsterArmature|Walk
+  - first:
+      74: -4554839012302985690
+    second: MonsterArmature|MonsterArmature|MonsterArmature|Yes|MonsterArmature|Yes
+  - first:
+      74: -630018696588492031
+    second: MonsterArmature|MonsterArmature|No|No
+  - first:
+      74: 5924013831019312062
+    second: MonsterArmature|MonsterArmature|Walk|Walk
+  - first:
+      74: 2991160954599476928
+    second: MonsterArmature|MonsterArmature|Yes|Yes
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
