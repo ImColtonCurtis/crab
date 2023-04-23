@@ -16,3 +16,9 @@ About No Nothing
 No Nothing is a game development company dedicated to creating fun and challenging games for players of all ages. We are passionate about creating unique and engaging gameplay experiences, and Crab is one of our latest creations. Stay tuned for more exciting games from No Nothing!
 
 Get ready to embark on an epic adventure with Crab! Download the game now and guide lil' Crab through the mystical wonder of the paper pages!
+
+Get the Game
+
+App Store: https://apps.apple.com/us/app/crab/id1659482147
+
+Google Play Store: https://play.google.com/store/apps/details?id=com.nonothing.crab
